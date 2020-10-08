@@ -1,4 +1,5 @@
 # Binaries for programs and plugins
+gitpacker
 *.exe
 *.exe~
 *.dll
@@ -13,3 +14,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Git repos cloned by GitPacker
+archive/
+
+# Repos packed by GitPacker
+*.zip

@@ -1,0 +1,181 @@
+{
+  "archive": true,
+  "archive_filename": "packedByGitPacker",
+  "repos": [
+    {
+      "clone_directory": "hook-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/hook-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "insufficientbacon",
+      "commit": "",
+      "git_url": "git@github.com:tozny/insufficientbacon.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "e3dbSearchService",
+      "commit": "",
+      "git_url": "git@github.com:tozny/e3dbSearchService.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "e3db-clients-go",
+      "commit": "",
+      "git_url": "git@github.com:tozny/e3db-clients-go.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "tozny-k8s",
+      "commit": "",
+      "git_url": "git@github.com:tozny/tozny-k8s.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "dashboard-v3",
+      "commit": "",
+      "git_url": "git@github.com:tozny/dashboard-v3.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "identity-management-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/identity-management-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "js-account-sdk",
+      "commit": "",
+      "git_url": "git@github.com:tozny/js-account-sdk.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "identity-portal",
+      "commit": "",
+      "git_url": "git@github.com:tozny/identity-portal.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "js-sdk",
+      "commit": "",
+      "git_url": "git@github.com:tozny/js-sdk.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "e3db-go",
+      "commit": "",
+      "git_url": "git@github.com:tozny/e3db-go.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "keycloak-client",
+      "commit": "",
+      "git_url": "git@github.com:tozny/keycloak-client.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "cyclops-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/cyclops-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "certificate-authority",
+      "commit": "",
+      "git_url": "git@github.com:tozny/certificate-authority.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "cfssl",
+      "commit": "",
+      "git_url": "git@github.com:tozny/cfssl.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "pds-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/pds-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "storage-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/storage-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "browser-sodium-sdk",
+      "commit": "",
+      "git_url": "git@github.com:tozny/browser-sodium-sdk.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "js-node-sdk",
+      "commit": "",
+      "git_url": "git@github.com:tozny/js-node-sdk.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "js-sdk-client-interface",
+      "commit": "",
+      "git_url": "git@github.com:tozny/js-sdk-client-interface.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "mock-saas-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/mock-saas-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "account-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/account-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "credential-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/credential-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "client-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/client-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "notification-service",
+      "commit": "",
+      "git_url": "git@github.com:tozny/notification-service.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "utils-go",
+      "commit": "",
+      "git_url": "git@github.com:tozny/utils-go.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "identity-server-sdk-js",
+      "commit": "",
+      "git_url": "git@github.com:tozny/identity-server-sdk-js.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "internal-compute",
+      "commit": "",
+      "git_url": "git@github.com:tozny/internal-compute.git",
+      "shallow": true
+    },
+    {
+      "clone_directory": "js-compute-sdk",
+      "commit": "",
+      "git_url": "git@github.com:tozny/js-compute-sdk.git",
+      "shallow": true
+    }
+  ],
+  "root_clone_directory": "archive"
+}
